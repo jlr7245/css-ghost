@@ -7,7 +7,7 @@ That's fine -- in life, he spent all his time on the computer anyway. But the pa
 Copy and paste the CSS in `starter.txt` into the appropriate places in `style.css`. When finished, Pierre will:
 
 - Continuously bob slightly up and down and wobble from side-to-side
-- Be invisible, except for when the mouse is on top of him
+- Be almost invisible, except for when the mouse is on top of him
 - Starting just off the top-left corner of the window...
   - Move to the bottom-left corner, then...
   - Move to the top-right corner while doing a forward flip, then...
@@ -20,6 +20,6 @@ You will use **all** of the CSS in `starter.txt`. You **should** only modify `st
 
 See a completed example at the link below. Peek at the CSS only if you're totally stuck!
 
-http://ga-wdi-exercises.github.io/css-ghost/
+http://cssghost-jsilv.bitballoon.com/
 
 **Now get coding... if you dare!**
