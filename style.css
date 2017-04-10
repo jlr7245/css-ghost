@@ -6,13 +6,11 @@
   width: 220px;
   height: 220px;
   opacity: 0.1;
-  transition: opacity 0.2s;
   background-image:url(ghost.png);
 }
 
 .ghost:hover div {
-  opacity: 1;
-  transition: opacity 0.2s;
+  
 }
 
 @keyframes hover {
